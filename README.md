@@ -7,11 +7,11 @@ A Van Emde Boas tree written in python.
 Support Predecessor, Successor, is_in, insert in log(log(u)) time, where u is around 2^(2^max_num_in_list)
 
 ## How to use VEB.
-** To use VEB, first, **
+**To use VEB, first,**
 ```
  v = VEB(u)
 ```
-** To insert a number,simply **
+**To insert a number,simply**
 ```
   v.insert(x)
 ```
