@@ -30,3 +30,5 @@ Support Predecessor, Successor, is_in, insert in log(log(u)) time, where u is ar
 **Where u is the approximate maximum number in your list.** <br />
 **The VEB tree can do all the query in a rane [0,u-1].**
 
+## Running time of VEB.
+<img width="552" alt="screen shot 2016-10-15 at 1 28 03 am" src="https://cloud.githubusercontent.com/assets/17826527/19417383/b0315392-93ee-11e6-8388-1aa8eb41230e.png">
