@@ -27,6 +27,6 @@ Support Predecessor, Successor, is_in, insert in log(log(u)) time, where u is ar
  v.successor(x)
 ```
 
-**Where u is the approximate maximum number in your list.**
+**Where u is the approximate maximum number in your list.** <br />
 **The VEB tree can do all the query in a rane [0,u-1].**
 
