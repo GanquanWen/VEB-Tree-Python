@@ -6,6 +6,10 @@
 A Van Emde Boas tree written in python.
 Support Predecessor, Successor, is_in, insert in log(log(u)) time, where u is around 2^(2^max_num_in_list)
 
+
+## Documents
+https://thuandchu-portfolio.herokuapp.com/veb/assets/player/KeynoteDHTMLPlayer.html#0
+
 ## How to use VEB.
 **To use VEB, first,**
 ```
